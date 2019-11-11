@@ -76,7 +76,7 @@ public class Hacker : MonoBehaviour
         }
         else
         {
-            Terminal.WriteLine("SiKe!! TRY AGAIN XD ");
+            Terminal.WriteLine("SiKe!! TRY AGAIN XD, (0_0) ");
         }
     }
     void StartGame()
